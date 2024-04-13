@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Sajid Hussain 
-
+I am currently working on COMPUTER VISION,ROBOTICS
 
 <!--
 **hussains72/hussains72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
