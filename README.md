@@ -1,6 +1,8 @@
 ### Hi there 👋
  
-I am currently working on COMPUTER VISION,ROBOTICS.🤪
+I am currently working on COMPUTER VISION ![image](https://github.com/hussains72/hussains72/assets/72862982/67c84ebe-943d-4e5a-98f2-189b87eddca9)
+,ROBOTICS ![image](https://github.com/hussains72/hussains72/assets/72862982/c89c0018-1390-4eb7-ad97-c77c4d444378)
+.🤪
 
 <!--
 **hussains72/hussains72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
